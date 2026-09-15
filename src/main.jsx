@@ -29,7 +29,7 @@ const CONFIG = {
   heroImage: "/venue.jpg",
 
   // Ảnh thiệp mà khách có thể tải về
-  invitationImage: "/thiep.png",
+  invitationImage: "/thiep finnal.png",
 
   timeline: [
     [
@@ -38,12 +38,12 @@ const CONFIG = {
       "Khoảnh khắc chính thức của ngày hôm nay",
     ],
     [
-      "16h:00 - 18h:00",
+      "13h:00 - 16h:00",
       "Chụp ảnh lưu niệm",
       "Cùng nhau lưu lại thật nhiều kỷ niệm",
     ],
     [
-      "18h:00",
+      "16h:30",
       "Khép lại buổi lễ",
       "Hẹn gặp lại nhau trong những dịp thật vui ♡",
     ],
