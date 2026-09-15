@@ -17,7 +17,7 @@ const CONFIG = {
   graduateName: "Mai Mạnh Chính",
   dateText: "Chủ Nhật, 27 tháng 9, 2026",
   dateShort: "27.09.2026",
-  time: "13h:00 - 18h:00",
+  time: "13h:00 - 16h:00",
 
   venue: "Sân Toà C9 Đại học Bách Khoa Hà Nội",
   address:
